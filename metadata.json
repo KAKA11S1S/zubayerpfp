@@ -1,0 +1,8 @@
+{
+  "name": "Zubayer Utsho - Premium Creator Portfolio",
+  "description": "A cinematic, futuristic, and luxury portfolio website for Zubayer Utsho, a Bangladeshi content creator and designer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
